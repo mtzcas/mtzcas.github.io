@@ -340,3 +340,20 @@ font-size: 0.8rem;
         transform: translateX(var(--skill-bar-length)); 
     }
 }
+
+footer{
+    text-align: center;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: var(--transition);
+    font-family: sans-serif;
+    padding: 40px;
+}
+.copyright{
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: var(--transition);
+    font-family: sans-serif;
+font-size: 13px;
+margin: 20px;
+}
