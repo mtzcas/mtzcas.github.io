@@ -301,7 +301,7 @@ font-size: 0.8rem;
 
 .buttons{
     display: flex;
-    justify-content: space-between;
+    justify-content:space-between;
     width: 225px;
 }
 
