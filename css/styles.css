@@ -141,7 +141,7 @@ body.dark{
 }
 
 .card__image-container{
-    min-width: 360px;
+    min-width: 250px;
     border-radius: var(--border-radius);
     overflow: hidden;
 }
@@ -167,7 +167,7 @@ body.dark{
 }
 
 .card__text{
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     line-height: 1.6;
 }
 
